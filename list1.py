@@ -1,0 +1,9 @@
+fruit=["mango","graps","orange","apple"]
+veges=["potato","tomato","onion"]
+print(fruit)
+print(fruit[2])
+print(fruit[1:])
+print(fruit[2:4])
+print(fruit+veges)
+print(fruit)
+print(veges*3)
