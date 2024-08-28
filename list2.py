@@ -22,3 +22,6 @@ mix=fruit.copy()
 print(mix)
 mix.clear()
 print(mix)
+
+info=["Pratiksha",32,70.01,True]
+print(info)
